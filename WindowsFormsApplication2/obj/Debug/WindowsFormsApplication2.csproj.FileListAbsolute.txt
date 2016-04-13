@@ -1,0 +1,33 @@
+C:\Users\Gary\Documents\Visual Studio 2015\Projects\Figuras\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Gary\Documents\Visual Studio 2015\Projects\Figuras\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Gary\Documents\Visual Studio 2015\Projects\Figuras\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Gary\Documents\Visual Studio 2015\Projects\Figuras\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Gary\Documents\Visual Studio 2015\Projects\Figuras\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Gary\Documents\Visual Studio 2015\Projects\Figuras\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Gary\Documents\Visual Studio 2015\Projects\Figuras\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Gary\Documents\Visual Studio 2015\Projects\Figuras\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Gary\Documents\Visual Studio 2015\Projects\Figuras\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\edgar\OneDrive\Documents\GitHub\Figura\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\edgar\OneDrive\Documents\GitHub\Figura\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\edgar\OneDrive\Documents\GitHub\Figura\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\edgar\OneDrive\Documents\GitHub\Figura\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\edgar\OneDrive\Documents\GitHub\Figura\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\edgar\OneDrive\Documents\GitHub\Figura\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\edgar\OneDrive\Documents\GitHub\Figura\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\edgar\OneDrive\Documents\GitHub\Figura\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\edgar\OneDrive\Documents\GitHub\Figura\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\edgar\OneDrive\Documents\GitHub\Proyecto\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\edgar\OneDrive\Documents\GitHub\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\edgar\OneDrive\Documents\GitHub\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\edgar\OneDrive\Documents\GitHub\Proyecto\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\edgar\OneDrive\Documents\GitHub\Proyecto\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\edgar\OneDrive\Documents\GitHub\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\edgar\OneDrive\Documents\GitHub\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\edgar\OneDrive\Documents\GitHub\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\edgar\OneDrive\Documents\GitHub\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\edgar\Documents\Figura\Proyecto\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\edgar\Documents\Figura\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\edgar\Documents\Figura\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\edgar\Documents\Repositorys\FigurasRC\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\edgar\Documents\Repositorys\FigurasRC\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\edgar\Documents\Repositorys\FigurasRC\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
